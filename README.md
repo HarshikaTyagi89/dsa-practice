@@ -16,16 +16,16 @@ Problems are organized by phase, matching the roadmap below.
 - [X] Number System Basics
 
 ### Phase 2: Arrays, Searching & Sorting 
-- [ ] 1D Arrays Basics
-- [ ] 1D Array Intermediate
-- [ ] Binary Search Core
-- [ ] Binary Search Advanced Applications
-- [ ] Binary Search Optimization
-- [ ] Sorting Algorithms
-- [ ] C++ STL
-- [ ] 2D Arrays
-- [ ] 2D Array Intermediate
-- [ ] Basic Mathematics for DSA
+- [X] 1D Arrays Basics
+- [X] 1D Array Intermediate
+- [X] Binary Search Core
+- [X] Binary Search Advanced Applications
+- [X] Binary Search Optimization
+- [X] Sorting Algorithms
+- [X] C++ STL
+- [X] 2D Arrays
+- [X] 2D Array Intermediate
+- [X] Basic Mathematics for DSA
 
 ### Phase 3: Pointers, Memory Management & Recursion 
 - [ ] Pointers Level 1
